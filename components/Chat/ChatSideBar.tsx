@@ -48,7 +48,7 @@ export const ChatSideBar = () => {
                 <Flex gap="2" align="center">
                   <BiMessageDetail className="size-4" />
                   <Text as="p" className="truncate">
-                  UbitGPT
+                  GaiaGPT
                   </Text>
                 </Flex>
                 <IconButton
